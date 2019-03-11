@@ -1,0 +1,45 @@
+{
+  "description": "项目配置文件。",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": false,
+    "minified": true,
+    "newFeature": true,
+    "autoAudits": false
+  },
+  "compileType": "miniprogram",
+	"libVersion": "2.6.2",
+	"appid": "wx3c873d3b426183dc",
+	"projectname": "%E9%85%92%E5%BA%97%E7%94%A8%E5%93%81",
+    "scripts": {},
+    "condition": {
+      "search": {
+        "current": -1,
+        "list": []
+      },
+      "conversation": {
+        "current": -1,
+        "list": []
+      },
+      "plugin": {
+        "current": -1,
+        "list": []
+      },
+      "game": {
+        "current": -1,
+        "list": []
+      },
+      "miniprogram": {
+        "current": 0,
+        "list": [
+          {
+            "id": -1,
+            "name": "home",
+            "pathName": "pages/index/index",
+            "scene": null
+          }
+        ]
+      }
+    }
+  }
